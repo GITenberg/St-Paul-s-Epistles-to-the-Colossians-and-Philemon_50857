@@ -1,4 +1,8 @@
 _repo: St-Paul-s-Epistles-to-the-Colossians-and-Philemon_50857
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50857-h/images/cover.jpg
 creator:
   author:
     agent_name: Lightfoot, J. B. (Joseph Barber)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7866
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Barber_Lightfoot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50857#St-Paul-s-Epistles-to-the-Colossians-and-Philemon
 gutenberg_issued: '2016-01-06'
 gutenberg_type: Text
 identifiers:
